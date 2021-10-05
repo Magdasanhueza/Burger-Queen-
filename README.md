@@ -1,6 +1,6 @@
-
-# "Big Burger"   <p width="100">
+  <p align="center" width="50">
   <img align="center" width="200" src="https://github.com/nicolarabarca/Burger-Queen-/blob/master/src/assets/bigburger.jpg" />
+   <h3># "Big Burger" </h3>
    
 </p>
 
