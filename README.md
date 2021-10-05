@@ -1,5 +1,5 @@
 
-# "Big Burger"   <p align="center" width="100">
+# "Big Burger"   <p width="100">
   <img align="center" width="200" src="https://github.com/nicolarabarca/Burger-Queen-/blob/master/src/assets/bigburger.jpg" />
    
 </p>
