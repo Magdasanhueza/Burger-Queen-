@@ -56,7 +56,7 @@ Para diseñar nuestra app nos basamos en las solicitudes de la hamburgueseria Bi
 
 ![Prototipo-de-Alta](https://github.com/nicolarabarca/Burger-Queen-/blob/master/src/assets/prototipo%20alta%20bq.png)
 
-### Link prototipo animado 
+### Link Prototipo Animado Figma
 https://www.figma.com/file/x9KKwFXBDm9p3TsmkaVsYK/BIG-BURGER?node-id=0%3A1
 
 ## 6. Testeo de Usabilidad 
