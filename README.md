@@ -1,9 +1,7 @@
-  <p align="center" width="50"> <h3  text-align="center"> "Big Burger" </h3>
+  <p align="center" width="50">
   <img align="center" width="200" src="https://github.com/nicolarabarca/Burger-Queen-/blob/master/src/assets/bigburger.jpg" />
- 
-   
 </p>
-
+<h3  text-align="center"> "Big Burger" </h3>
 
 ## 1. Definición del Producto
 
